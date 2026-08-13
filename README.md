@@ -1,0 +1,69 @@
+
+# Fullstack WebApp Simulation
+
+A simple website that simulates fullstack interaction between front and back-end.
+
+## Features
+
+- Create/Register account
+- Login into account
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm install
+```
+
+
+## Environment Variables
+
+CI = false because vercel doesn't allow vulnerabilities on deploy
+
+`CI` 
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/estudantevitor/template_server
+```
+
+Go to the project directory
+
+```bash
+  cd react-template-client
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Dependencies:
+
+``` 
+axios
+jwt-decode
+react
+react-dom
+react-router-dom
+react-icons
+react-scripts
+web-vitals
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Support
+
+For support, email vitor_s_leandro@estudante.sesisenai.org.br
